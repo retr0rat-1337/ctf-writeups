@@ -1,1 +1,1 @@
-All writeups of CTFs I were part of since 2026
+All writeups of CTFs I were part of since 2026.
