@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "dev-stp/beginner-ctfs/web-exploitation/98 Rocks - Level 0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "98 Rocks - Level 0"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "dev-stp/beginner-ctfs/web-exploitation/98 Rocks - Level 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for 98 Rocks - Level 0"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "dev-stp/beginner-ctfs/web-exploitation/98 Rocks - Level 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from 98 Rocks - Level 0"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "dev-stp/beginner-ctfs/web-exploitation/98 Rocks - Level 0.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of 98 Rocks - Level 0"
             }
           },
           {
@@ -194,8 +194,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f9e88de9758e743a",
+  "active": "31676320f5b7911f",
   "lastOpenFiles": [
+    "dev-stp/beginner-ctfs/web-exploitation/98 Rocks - Level 2.md",
+    "dev-stp/beginner-ctfs/web-exploitation/98 Rocks - Level 1.md",
+    "dev-stp/beginner-ctfs/web-exploitation/98 Rocks - Level 0.md",
+    "dev-stp/beginner-ctfs/web-exploitation/98 Rocks - Level 3.md",
+    "README.md",
     "dev-stp/beginner-ctfs/web-exploitation",
     "dev-stp/beginner-ctfs",
     "Untitled",
